@@ -1,0 +1,4 @@
+11/08/2015
+· (Prioridad 1) Hacer que funcionen los botones de musica y sonido del panel de pausa
+· (Prioridad 1) Poner un boton de Home en la pantalla Stages
+· (Prioridad 5) Poner mas pantallas de puzzles
